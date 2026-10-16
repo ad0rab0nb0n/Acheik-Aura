@@ -6,6 +6,16 @@ A Django-based e-commerce website showcasing Myanmar's traditional Acheik textil
 ## Overview
 
 Acheik Aura is a web development project focused on celebrating Myanmar's textile heritage through an online platform where users can explore Acheik products, browse designs, and learn about traditional textiles.
+## Screenshots
+
+### Homepage
+![Acheik Aura Homepage](docs/screenshots/homepage.png)
+
+### Designer
+![Acheik Aura Designer](docs/screenshots/designer.png)
+
+### Skin Color Analysis
+![Acheik Aura Skin Color Analysis](docs/screenshots/skin-analysis.png)
 
 ## Features
 
