@@ -1,0 +1,39 @@
+# Python virtual environments
+.venv/
+venv/
+env/
+
+# Python generated files
+__pycache__/
+*.py[cod]
+
+# Secret environment files
+.env
+.env.*
+!.env.example
+
+# Local databases and database backups
+*.sqlite3
+*.sqlite3-*
+*.sqlite3.*
+*.db
+*.sqbpro
+
+# Large debugging archive
+checkout_debug.zip
+
+# macOS generated files
+.DS_Store
+
+# Logs and generated static files
+*.log
+staticfiles/
+
+# User-uploaded profile pictures
+media/profile_pics/
+
+# Local settings backup
+acheikaura/settings.py.mysql-backup
+
+# Windows metadata
+**/desktop.ini
